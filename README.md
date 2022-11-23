@@ -4,8 +4,10 @@ If useful to your research, we would appreciate a citation:<br>
 XXXXXX (2023): XXXXXX.***<br>
 Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.edu.cn or xulong@nwpu.edu.cn). <br>
 
-# Material property of concrete damage plasticity in Abaqus python script
+# Meso-scale modeling of porous polycrystalline Ag in Abaqus python script
 ## Keywords:
-ABAQUS; Python script; CDP model; concrete damage plasticity
+ABAQUS; python script; crystal plasticity; CPFEM
 ## Introduction
-This work investigates the effects of porosity and grain size on the microstructure evolution and compressive properties of sintered porous polycrystalline Ag for the power electronics and flexible devices. Mechanical responses and microstructural deformations of the specimens with the porosities ranging from 0% to 36.5% and different grain sizes were analyzed under micro-compression tests, experimentally and numerically. The small number of pores and the finer grain size improve the mechanical properties and fracture resistance. It is a critical benchmark for analyzing and modeling the sintered polycrystalline silver in practical applications.
+This work investigates the effects of porosity and grain size on the microstructure evolution and compressive properties of sintered porous polycrystalline Ag for the power electronics and flexible devices. Meso-scale modeling for mechanical responses and microstructural deformations of the specimens with the varied porositiesand grain sizes were analyzed under micro-compression tests and numerically. It provides a critical benchmark for analyzing and modeling the sintered polycrystalline silver in practical applications.<br>
+The codes will be available when the manuscript is published. Please wait for a short time.<br>
+Many thanks for your continued interest.<br>

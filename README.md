@@ -1,7 +1,7 @@
 If useful to your research, we would appreciate a citation:<br>
 ***Yutai Su, *** and Chuantong Chen.
 "******"XXXXXX (***): XXXXXX.***<br>
-Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.edu.cn or xulong@nwpu.edu.cn). <br>
+Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.edu.cn). <br>
 
 # Meso-scale modeling of porous polycrystalline Ag in Abaqus python script
 ## Keywords:

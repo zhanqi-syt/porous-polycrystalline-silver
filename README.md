@@ -1,7 +1,6 @@
 If useful to your research, we would appreciate a citation:<br>
-***Yutai Su, Kainan Chong, Xu Long, Chuantong Chen, Changqing Liu, and Katsuaki Suganuma. 
-"Microstructure evolution and compressive properties of porous polycrystalline Ag with varied porosity and grain size: experimental and numerical approaches" 
-XXXXXX (2023): XXXXXX.***<br>
+***Yutai Su, *** and Chuantong Chen.
+"******"XXXXXX (***): XXXXXX.***<br>
 Feel free to utilize this code. If any questions, please email us (suyutai@nwpu.edu.cn or xulong@nwpu.edu.cn). <br>
 
 # Meso-scale modeling of porous polycrystalline Ag in Abaqus python script
